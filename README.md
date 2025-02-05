@@ -5,7 +5,7 @@
 
 - 🌱 Şu anda öğreniyorum **Laravel**
 
-- 👨‍💻 Tüm projelerime şu adresten ulaşabilirsiniz [github.com/selimkse](github.com/selimkse)
+- 👨‍💻 Tüm projelerime şu adresten ulaşabilirsiniz [github.com/selimkse](https://github.com/selimkse)
 
 - 💬 Bana ne hakkında soru sor **JavaScript**
 
