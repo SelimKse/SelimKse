@@ -1,5 +1,7 @@
 <h1 align="center">Merhaba👋, Ben Selim</h1>
-<h3 align="center">✅ Full Stack Geliştirici | Laravel & Python Meraklısı | Yapay Zeka ve Otomasyon Tutkunu 🚀 Akıllı Çözümler Üretiyorum | Öğreniyor ve Paylaşıyorum 🔗 Açık Kaynak Katkıcısı | Sürekli Keşifte</h3>
+<h3 align="center">✅ Full Stack Geliştirici | Laravel & Python Meraklısı | Yapay Zeka ve Otomasyon Tutkunu </h3>
+<h3 align="center">🚀 Akıllı Çözümler Üretiyorum | Öğreniyor ve Paylaşıyorum </h3>
+<h3 align="center">🔗 Açık Kaynak Katkıcısı | Sürekli Keşifte</h3>
 
 - 🔭 Şu anda üzerinde çalıştığım [Kan Bağışı Takip ve Bildirim Sistemi](#)
 
