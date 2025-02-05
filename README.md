@@ -9,7 +9,7 @@
   
 - 💬 Bana ne hakkında soru sor **JavaScript**
 
-- 📫 Bana nasıl ulaşabilirsiniz **linkedin.com/selimkse**
+- 📫 Bana nasıl ulaşabilirsiniz [linkedin.com/selimkse](https://www.linkedin.com/in/selimkose/)
 
 - ⚡ Eğlenceli gerçek **Kod Yazmak...**
 
